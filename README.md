@@ -1,11 +1,11 @@
 <!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:22D3EE,100:0D1117&height=220&section=header&text=Hey,%20I'm%20[Your%20Name]&fontSize=52&fontColor=F8FAFC&fontAlignY=38&desc=builder%20%7C%20thinker%20%7C%20open-source%20contributor&descAlignY=58&descSize=18&descColor=22D3EE&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:22D3EE,100:0D1117&height=220&section=header&text=Hey,%20I'm%20[Daniel%20Unegbu]&fontSize=52&fontColor=F8FAFC&fontAlignY=38&desc=builder%20%7C%20thinker%20%7C%20open-source%20contributor&descAlignY=58&descSize=18&descColor=22D3EE&animation=fadeIn" />
 </p>
 
 <!-- ANIMATED TYPING INTRO -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3500&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Full-stack+developer+with+a+product+mindset.;Passionate+about+clean+APIs+and+elegant+UIs.;Always+learning%2C+always+shipping." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3500&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Full-stack+developer+with+a+product+mindset.;Passionate+about+clean+APIs+and+mobile+app+building.;Always+learning%2C+always+deploying+new+projects." alt="Typing SVG" />
 </p>
 
 <br/>
