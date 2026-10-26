@@ -14,7 +14,7 @@
 
 ## What I'm working on
 
-> I build things that live at the intersection of good engineering and good design. Right now I'm focused on **LedgerCorp Accounting** — a full-stack corporate accounting platform engineered for automated financial workflows and business tracking.
+> I build web applications that are an intersection of solid engineering and eye-catching design. Right now I'm focused on **LedgerCorp Accounting** — a full-stack corporate accounting platform engineered for automated financial workflows and business tracking.
 
 Currently exploring:
 - 🔭 &nbsp; Smart-Coworking App — AI-Powered 24/7 Leasing Agent & Real Estate Management
