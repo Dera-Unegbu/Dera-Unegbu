@@ -25,7 +25,7 @@ Currently exploring:
 
 ---
 
-## Tech I reach for
+## My Tech Stack
 
 <!-- TECH STACK BADGES — grouped by layer, not jumbled -->
 
@@ -44,8 +44,8 @@ Currently exploring:
 ![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=fcf403)
 ![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=7C3AED)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=22D3EE)
-![Supabase](https://img.shields.io/badge/Supabase-0D1117?style=for-the-badge&logo=supabase&logoColor=22D3EE)
-![AntiGravity](https://img.shields.io/badge/AntiGravity-0D1117?style=for-the-badge&logo=google&logoColor=7C3AED)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0D1117?style=for-the-badge&logo=tensorflow&logoColor=22D3EE)
+![PyTorch](https://img.shields.io/badge/PyTorch-0D1117?style=for-the-badge&logo=pytorch&logoColor=7C3AED)
 ![Pandas](https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=22D3EE)
 ![NumPy](https://img.shields.io/badge/NumPy-0D1117?style=for-the-badge&logo=numpy&logoColor=7C3AED)
 
@@ -53,9 +53,10 @@ Currently exploring:
 
 ![Netlify](https://img.shields.io/badge/Netlify-0D1117?style=for-the-badge&logo=netlify&logoColor=22D3EE)
 ![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=7C3AED)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0D1117?style=for-the-badge&logo=githubactions&logoColor=22D3EE)
+![AntiGravity](https://img.shields.io/badge/AntiGravity-0D1117?style=for-the-badge&logo=google&logoColor=7C3AED)
 ![DBeaver](https://img.shields.io/badge/DBeaver-0D1117?style=for-the-badge&logo=dbeaver&logoColor=7C3AED)
-![VSCode](https://img.shields.io/badge/VSCode-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=22D3EE)
+![Supabase](https://img.shields.io/badge/Supabase-0D1117?style=for-the-badge&logo=supabase&logoColor=22D3EE)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-0D1117?style=for-the-badge&logo=apachespark&logoColor=fcf403)
 
 <br/>
 
@@ -64,13 +65,13 @@ Currently exploring:
 ## GitHub at a glance
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=22D3EE&text_color=F8FAFC" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dera-Unegbu&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=22D3EE&text_color=F8FAFC" />
   &nbsp;&nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=F8FAFC" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dera-Unegbu&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=F8FAFC" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=midnight-purple&hide_border=true&background=0D1117&ring=7C3AED&fire=22D3EE&currStreakLabel=F8FAFC" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Dera-Unegbu&theme=midnight-purple&hide_border=true&background=0D1117&ring=7C3AED&fire=22D3EE&currStreakLabel=F8FAFC" />
 </p>
 
 <br/>
@@ -81,9 +82,9 @@ Currently exploring:
 
 | Project | What it does | Stack |
 |---|---|---|
-| **[LedgerCorp Accounting](https://github.com/YOUR_USERNAME/project)** | A full-stack corporate accounting web and mobile application. | `Python` `FastAPI` `PostgreSQL` |
-| **[Obigold Wraps](https://github.com/YOUR_USERNAME/project)** | Custom production website and client tool for a local car wrapping business. | `React` `Tailwind` `Netlify` |
-| **[Shieldline Institute](https://github.com/YOUR_USERNAME/project)** | Responsive web platform and workflow automation for a driving safety institute. | `TypeScript` `Next.js` `React` |
+| **[LedgerCorp Accounting](https://github.com/Dera-Unegbu/project)** | A full-stack corporate accounting web and mobile application. | `Python` `FastAPI` `PostgreSQL` |
+| **[Obigold Wraps](https://github.com/YOUR_USERNAME/automobile-wraps-website)** | Custom production website and client tool for a local car wrapping business. | `React` `Tailwind` `Netlify` |
+| **[Bespoke-Suit-Tailoring-Prototype](https://github.com/Dera-Unegbu/Bespoke-Suit-Tailoring-Prototype)** | Responsive web platform and workflow automation for a bespoke tailoring business. | `TypeScript` `Next.js` `React` |
 
 <br/>
 
