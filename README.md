@@ -1,6 +1,6 @@
 <!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:22D3EE,100:0D1117&height=220&section=header&text=Hey,%20I'm%20[Daniel%20Unegbu]&fontSize=52&fontColor=F8FAFC&fontAlignY=38&desc=builder%20%7C%20thinker%20%7C%20open-source%20contributor&descAlignY=58&descSize=18&descColor=22D3EE&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:22D3EE,100:0D1117&height=220&section=header&text=Hey,%20I'm%20Daniel%20Unegbu&fontSize=52&fontColor=F8FAFC&fontAlignY=38&desc=builder%20%7C%20thinker%20%7C%20software%20engineer&descAlignY=58&descSize=18&descColor=22D3EE&animation=fadeIn" />
 </p>
 
 <!-- ANIMATED TYPING INTRO -->
@@ -14,12 +14,12 @@
 
 ## What I'm working on
 
-> I build things that live at the intersection of good engineering and good design. Right now I'm focused on **[your current project]** — a [one-sentence description of what it does and who it's for].
+> I build things that live at the intersection of good engineering and good design. Right now I'm focused on **LedgerCorp Accounting** — a full-stack corporate accounting platform engineered for automated financial workflows and business tracking.
 
 Currently exploring:
-- 🔭 &nbsp;[Project A] — [brief context]  
-- 🌱 &nbsp;Learning [technology/concept] through [approach]  
-- 🤝 &nbsp;Open to collaborating on [type of work]
+- 🔭 &nbsp; Smart-Coworking App — AI-Powered 24/7 Leasing Agent & Real Estate Management
+- 🌱 &nbsp; Learning LLM-Training & API Integrations
+- 🤝 &nbsp; Open to collaborating on AI Chatbots, Web Applications & Workflow Automation
 
 <br/>
 
@@ -29,20 +29,33 @@ Currently exploring:
 
 <!-- TECH STACK BADGES — grouped by layer, not jumbled -->
 
-**Frontend**
+**Frontend & Mobile**
 
 ![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=22D3EE)
-![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=7C3AED)
-![Tailwind](https://img.shields.io/badge/Tailwind-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=22D3EE)
 ![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=next.js&logoColor=F8FAFC)
+![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=7C3AED)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=fcf403)
+![Tailwind](https://img.shields.io/badge/Tailwind-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=22D3EE)
+![Capacitor](https://img.shields.io/badge/Capacitor-0D1117?style=for-the-badge&logo=capacitor&logoColor=22D3EE)
 
-**Backend & Infra**
+**Backend & Data**
 
-![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=22D3EE)
-![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=7C3AED)
+![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=22D3EE)
+![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=fcf403)
+![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=7C3AED)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=22D3EE)
+![Supabase](https://img.shields.io/badge/Supabase-0D1117?style=for-the-badge&logo=supabase&logoColor=22D3EE)
+![AntiGravity](https://img.shields.io/badge/AntiGravity-0D1117?style=for-the-badge&logo=google&logoColor=7C3AED)
+![Pandas](https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=22D3EE)
+![NumPy](https://img.shields.io/badge/NumPy-0D1117?style=for-the-badge&logo=numpy&logoColor=7C3AED)
+
+**Tooling & Deployment**
+
+![Netlify](https://img.shields.io/badge/Netlify-0D1117?style=for-the-badge&logo=netlify&logoColor=22D3EE)
 ![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=7C3AED)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0D1117?style=for-the-badge&logo=githubactions&logoColor=22D3EE)
+![DBeaver](https://img.shields.io/badge/DBeaver-0D1117?style=for-the-badge&logo=dbeaver&logoColor=7C3AED)
+![VSCode](https://img.shields.io/badge/VSCode-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=22D3EE)
 
 <br/>
 
@@ -68,9 +81,9 @@ Currently exploring:
 
 | Project | What it does | Stack |
 |---|---|---|
-| **[Project Name](https://github.com/YOUR_USERNAME/project)** | One clear sentence on the problem it solves | `React` `Node` `Postgres` |
-| **[Project Name](https://github.com/YOUR_USERNAME/project)** | One clear sentence on the problem it solves | `Python` `FastAPI` |
-| **[Project Name](https://github.com/YOUR_USERNAME/project)** | One clear sentence on the problem it solves | `TypeScript` `Next.js` |
+| **[LedgerCorp Accounting](https://github.com/YOUR_USERNAME/project)** | A full-stack corporate accounting web and mobile application. | `Python` `FastAPI` `PostgreSQL` |
+| **[Obigold Wraps](https://github.com/YOUR_USERNAME/project)** | Custom production website and client tool for a local car wrapping business. | `React` `Tailwind` `Netlify` |
+| **[Shieldline Institute](https://github.com/YOUR_USERNAME/project)** | Responsive web platform and workflow automation for a driving safety institute. | `TypeScript` `Next.js` `React` |
 
 <br/>
 
@@ -84,7 +97,7 @@ Currently exploring:
   </a>
   &nbsp;
   <a href="https://www.instagram.com/chideraaunegbu/">
-    <img src="https://img.shields.io/badge/Twitter-0D1117?style=for-the-badge&logo=x&logoColor=F8FAFC" />
+    <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=F8FAFC" />
   </a>
   &nbsp;
   <a href="mailto:odesigounegbu@email.com">
