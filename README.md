@@ -65,13 +65,13 @@ Currently exploring:
 ## GitHub at a glance
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dera-Unegbu&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=22D3EE&text_color=F8FAFC" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Dera-Unegbu&amp;show_icons=true&amp;theme=midnight-purple&amp;include_all_commits=true&amp;count_private=true&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=7C3AED&amp;icon_color=22D3EE&amp;text_color=F8FAFC" alt="GitHub Stats" />
   &nbsp;&nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dera-Unegbu&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=F8FAFC" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dera-Unegbu&amp;layout=compact&amp;theme=midnight-purple&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=7C3AED&amp;text_color=F8FAFC" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Dera-Unegbu&theme=midnight-purple&hide_border=true&background=0D1117&ring=7C3AED&fire=22D3EE&currStreakLabel=F8FAFC" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Dera-Unegbu&amp;theme=midnight-purple&amp;hide_border=true&amp;background=0D1117&amp;ring=7C3AED&amp;fire=22D3EE&amp;currStreakLabel=F8FAFC" alt="GitHub Streak" />
 </p>
 
 <br/>
