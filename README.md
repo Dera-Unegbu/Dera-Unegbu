@@ -82,8 +82,8 @@ Currently exploring:
 
 | Project | What it does | Stack |
 |---|---|---|
-| **[LedgerCorp Accounting](https://github.com/Dera-Unegbu/ledgercorp-accounting-app)** | A full-stack corporate accounting web and mobile application. | `Python` `FastAPI` `PostgreSQL` |
-| **[Obigold Wraps](https://github.com/Dera-Unegbu/automobile-wraps-website)** | Custom production website and client tool for a local car wrapping business. | `React` `Tailwind` `Netlify` |
+| **[Danex Pre-Meeting Intelligence](https://github.com/Dera-Unegbu/danex-meetings)** | Real-time AI pre-meeting research and intelligence platform. | `Tavily API` `Bifrost AI Gateway` `Supabase` `OpenRouter` |
+| **[Automobile Wraps](https://github.com/Dera-Unegbu/automobile-wraps-website)** | Custom production website and client tool for a local car wrapping business. | `React` `Tailwind` `Netlify` |
 | **[Bespoke-Suit-Tailoring-Prototype](https://github.com/Dera-Unegbu/Bespoke-Suit-Tailoring-Prototype)** | Responsive web platform and workflow automation for a bespoke tailoring business. | `TypeScript` `Next.js` `React` |
 
 <br/>
